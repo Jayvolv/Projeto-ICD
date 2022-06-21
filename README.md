@@ -8,4 +8,3 @@ Repositório de estudantes do curso de Ciência de Dados e Inteligência Artific
 ## Dados que serão utilizados para referência:
 * https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
 * https://www.kaggle.com/datasets/vipulgote4/oscars-nominated-movies-from-2000-to-2017
-* https://www.kaggle.com/datasets/unanimad/emmy-awards
